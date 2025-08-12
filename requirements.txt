@@ -1,0 +1,4 @@
+fonttools
+shapely
+trimesh
+numpy
