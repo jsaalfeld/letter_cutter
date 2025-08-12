@@ -1,4 +1,4 @@
-fonttools
-shapely
-trimesh
-numpy
+fonttools==4.54.1
+shapely==2.0.4
+trimesh==4.4.3
+numpy==2.1.1
