@@ -14,7 +14,17 @@ Die Brücken verbinden innere Inseln mit der Außenkontur, sodass der Ausstecher
 
 ## Installation
 
+Am besten in einer eigenen Python-Umgebung installieren:
+
 ```bash
+# Neues virtuelles Environment anlegen
+python3 -m venv .venv
+
+# Aktivieren
+source .venv/bin/activate   # Linux / macOS
+# .venv\Scripts\activate    # Windows PowerShell
+
+# Abhängigkeiten installieren
 pip install -r requirements.txt
 ```
 
